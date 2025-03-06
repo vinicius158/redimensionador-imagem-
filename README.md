@@ -11,5 +11,5 @@ Sistema feito para redimensionar imagens do formato jpeg, sendo rejeitados outro
 
 # Como funciona    
 
-Após o usuáro selecionar um arquivo com o formato jpeg e determinar as novas medidas de altura e largura em pixels, o sistema processa o arquivo e faz o redimensionamento
-para as medidas solicitadas e exibe um botão abaixo para dowload do arquivo modificado pelo sistema.   
+Após o usuáro selecionar um arquivo com o formato jpeg e determinar as novas medidas de altura e largura em pixels, após clicar na opção redimensionar imagem o sistema processa o arquivo e faz o redimensionamento
+para as medidas solicitadas e exibe um botão abaixo para dowload do arquivo modificado.   
